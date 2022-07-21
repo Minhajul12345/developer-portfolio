@@ -13,7 +13,10 @@ h1 {
 }
 
 section {
-    display: flex
+    display: flex;
+    margin-bottom: 200px;
+
+
 }
 
 .half-width {
@@ -40,5 +43,11 @@ section {
     color: #221717;
     font-weight: 600;
 
+}
 
+.dream-big {
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 10%;
 }
